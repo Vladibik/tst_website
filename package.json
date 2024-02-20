@@ -1,0 +1,20 @@
+{
+  "name": "package",
+  "version": "1.0.1",
+  "author": "Vlad <bikeshenko@gmail.com>",
+  "description": "run, Forest, run",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+/Vladibik/tst_website.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladibik/tst_website/issues"
+  },
+  "homepage": "https://github.com/Vladibik/tst_website",
+  "keywords": []
+}
